@@ -1,0 +1,7 @@
+{
+  "name": "Garden App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
